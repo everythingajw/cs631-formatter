@@ -77,5 +77,5 @@ AllowShortBlocksOnASingleLine: Never
 AllowShortLoopsOnASingleLine: false
 AllowShortEnumsOnASingleLine: false
 AllowShortCaseLabelsOnASingleLine: false
+ContinuationIndentWidth: 4
 
-# The rest of these aren't specified explicitly in the style guide, but are sensible options.
